@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Mohamed Raouf</h1>
+<h1 align="center">👋 Hi, I'm Mohamed Abdel Raouf</h1>
 <h3 align="center">Frontend Developer | React.js | Figma Enthusiast</h3>
 
 <p align="center">
@@ -42,10 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raouf145&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raouf145&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
 
 ---
 
@@ -63,4 +59,4 @@
 
 ---
 
-<p align="center">✨ Crafted with passion by <b>Mohamed Raouf</b> ✨</p>
+<p align="center">✨ Crafted with passion by <b>Mohamed Abdel Raouf</b> ✨</p>

@@ -1,2 +1,78 @@
-# raoufmohamed
-Personal profile README
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm Mohamed Raouf</h1>
+<h3 align="center">Frontend Developer | React.js | UI/UX Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/raouf145">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C4F0&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TailwindCSS+Expert;UI%2FUX+Designer;Clean+Code+%26+Modern+Web+Apps" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎨 Passionate **Frontend Developer**
+- ⚡ Specialized in **React.js + TailwindCSS**
+- 👁️ Love building **clean, modern UI & smooth UX**
+- 📚 Currently learning: **Redux Toolkit + Advanced React**
+- 📩 Contact me: **raoufmohamed@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+</p>
+
+### 🧑‍💻 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raouf145&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raouf145&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raouf145&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 💠 **Awesome Portfolio Website**
+🚀 Modern UI — React, Tailwind, Animations  
+🔗 *Add link here later*
+
+### 💠 **Business Landing Page**
+Clean design + Fast performance  
+🔗 *Add link here later*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://behance.net" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="mailto:raoufmohamed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Designed with passion by <b>Mohamed Raouf</b> ✨</p>
